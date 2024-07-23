@@ -9,7 +9,7 @@ I´m currently a "Self-Taught" programmer getting ready to study "Computer Scien
     <img alt="xvvsb Twitch" title="Follow me on Twitch:" src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/>
     </a>
 <a href = "https://github.com/xvvsb?tab=followers">
-    <img alt = "Followers" title = "Follow me on Github:" src="file:///C:/Users/jpcpe/Desktop/user-plus.svg"
+    <img alt = "Followers" title = "Follow me on Github:" src="file:///C:/Users/jpcpe/Desktop/user-plus.svg">
 
 
 
